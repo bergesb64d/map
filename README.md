@@ -1,18 +1,6 @@
-# WorkAdventure Map for Das-Labor
+# WorkAdventure Map for DNSI
 
 A map for [WorkAdventure](https://workadventu.re) showing 
-[Das Labor](https://das-labor.org) in Bochum.
-
-
-https://virtuallab.das-labor.org/
-
-## EG
-
-![Bild](main.png)
-
-## UG
-
-![Bild](basement.png)
 
 
 ## Tools you will need
@@ -29,9 +17,6 @@ it with the [Tiled](https://www.mapeditor.org/) editor.
 
 After push it will be deployed to branch `gh-pages` and made available to
 github pages.
-
-The page leading to the workadventure-room is
-https://das-labor.github.io/workadv_das-labor/
 
 Feel free to make pull requests.
 
