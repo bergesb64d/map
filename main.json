@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.opera-collaboratif.chambres-agriculture.fr"
+                 "value":"https:\/\/www.google.Fr"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/redmine.sirca.chambagri.fr\/"
+                 "value":"https:\/\/www.yahoo.fr"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/support.sirca.chambagri.fr\/glpi\/front\/central.php"
+                 "value":"https:\/\/qwant.com"
                 }],
          "type":"tilelayer",
          "visible":true,
