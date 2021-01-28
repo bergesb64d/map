@@ -23,6 +23,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/149.91.82.33:7681\/"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
