@@ -23,6 +23,14 @@
          "opacity":1,
          "properties":[
                 {
+<<<<<<< HEAD
+=======
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/149.91.82.33\/"
+                }, 
+                {
+>>>>>>> 5934e5b2a17b58e3b7e12417510aa2509e627cb4
                  "name":"silent",
                  "type":"bool",
                  "value":true
