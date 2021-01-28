@@ -25,7 +25,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/149.91.82.33:7681\/"
+                 "value":"http:\/\/149.91.82.33\/"
                 }, 
                 {
                  "name":"silent",
