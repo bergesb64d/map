@@ -41,6 +41,16 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.6
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"SF-bureau.mp3"
